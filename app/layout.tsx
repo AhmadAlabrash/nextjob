@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "NextJob",
+  title: "FindTalent",
   description: "Find Your Dream Job",
 };
 
