@@ -3,12 +3,9 @@
 NextJob is a modern **job listing platform**, similar to Indeed, built with **Next.js**. It allows users to browse, search, and apply for jobs, while employers can post job listings and manage applications. The platform emphasizes a fast, responsive, and user-friendly interface, leveraging modern front-end and authentication technologies.  
 
 
+🏗️ Homepage
 
-## 🎥 Demo Video
-
-▶️ Click to watch the demo
-
-[![NextJob Demo Video ▶️](https://img.youtube.com/vi/1zdeygyw6pY/maxresdefault.jpg)](https://www.youtube.com/watch?v=1zdeygyw6pY)
+![Homepage Image](docs/homepage-image.png)
 
 ---
 
